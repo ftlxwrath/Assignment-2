@@ -1,3 +1,16 @@
+/********************
+ WEB322-Assignment 02
+ * I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part
+ of this assignment has been copied manually or electronically from any other source
+ (including 3rd party websites) or distributed to other students 
+
+ Name: Mohammed Abbas Ali Student ID: 123603219 Date: 02/03/2024
+
+ Online Cyclic Link: 
+ 
+ ********************/
+
+
 const express = require('express'); // "require" the Express module
 // const { getAllCountries, Initialize } = require('./modules/unCountries');
 const dataService = require('./modules/unCountries');
